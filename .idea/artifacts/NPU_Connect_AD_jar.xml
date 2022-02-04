@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NPU_Connect-AD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NPU_Connect_AD_jar</output-path>
+    <root id="archive" name="NPU_Connect-AD.jar">
+      <element id="module-output" name="NPU_Connect-AD" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Librarys/Apache POI/poi-bin-5.1.0/poi-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Librarys/Apache POI/poi-bin-5.1.0/poi-ooxml-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Librarys/Apache POI/poi-bin-5.1.0/poi-javadoc-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Librarys/Apache POI/poi-bin-5.1.0/poi-examples-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Librarys/Apache POI/poi-bin-5.1.0/poi-excelant-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Librarys/Apache POI/poi-bin-5.1.0/poi-ooxml-full-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Librarys/Apache POI/poi-bin-5.1.0/poi-ooxml-lite-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Librarys/Apache POI/poi-bin-5.1.0/poi-scratchpad-5.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
